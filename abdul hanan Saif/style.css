@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#one{
+    font-size: xx-large;
+    
+    padding-left: 10px;
+    margin-bottom: -10px;
+    color: rgb(92, 77, 175);
+}
+#line{
+    height: 2px;
+    background-color: gray;
+}
+h3{
+    color: gray;
+}
